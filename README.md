@@ -1,1 +1,1 @@
-This is a list of tasks that was assigned to me as part of my training period in Cybrosys Technologies for 6-Months
+This is a list of tasks from basic to advanced that were assigned to me as part of my 6-Month training period at Cybrosys Technologies
