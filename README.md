@@ -1,0 +1,1 @@
+This is a list of tasks that was assigned to me as part of my training period in Cybrosys Technologies for 6-Months
